@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://xiaomi.baishancdnx.cn/xdispatch7728c42dcaa8b994/bigota.d.miui.com/V10.2.2.0.OAAMIXM/miui_MI5Global_V10.2.2.0.OAAMIXM_d16c808eba_8.0.zip
+  ROM_URL: https://xiaomi.baishancdnx.cn/xdispatch7728c42dcaa8b9a5/bigota.d.miui.com/V10.2.2.0.OAAMIXM/miui_MI5Global_V10.2.2.0.OAAMIXM_d16c808eba_8.0.zip?bsreqid=ab808601320350fbc02540977a913ffb&DPhost=xiaomi.baishancdnx.cn
   ROM_NAME: MIUI
-  BUILD_TYPE: a
+  BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
 jobs:
